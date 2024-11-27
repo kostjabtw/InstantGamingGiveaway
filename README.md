@@ -18,19 +18,6 @@
   </a>
   <a
     class="giveaway"
-    href="https://www.instant-gaming.com/de/giveaway/PIXIA?igr=kostjabtw"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://gaming-cdn.com/images/avatars/7831487-1561130856.jpg"
-      alt="Pixia"
-      width="76"
-      height="76"
-    />
-  </a>
-  <a
-    class="giveaway"
     href="https://www.instant-gaming.com/fr/giveaway/chaouki?igr=kostjabtw"
     target="_blank"
     rel="noreferrer"
